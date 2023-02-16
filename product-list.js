@@ -21,7 +21,7 @@ export const electronicsProductData = [
     link: "#",
   },
   {
-    img: "https://rukminim1.flixcart.com/image/200/200/kmp7ngw0/monitor/j/z/h/s2721hn-27-py0df-dell-original-imagfjphuywuh2a7.jpeg?q=70",
+    img: "assets/img/categories_list_img/OIP (6)-01.jpg",
     productName: "Monitor",
     discount: "From ₹8279",
     brand: "DELL",
@@ -42,7 +42,14 @@ export const electronicsProductData = [
     link: "#",
   },
   {
-    img: "https://rukminim1.flixcart.com/image/200/200/kmp7ngw0/monitor/j/z/h/s2721hn-27-py0df-dell-original-imagfjphuywuh2a7.jpeg?q=70",
+    img: "assets/img/categories_list_img/OIP (7)-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/OIP (8)-01.jpg",
     productName: "Monitor",
     discount: "From ₹8279",
     brand: "DELL",
@@ -55,9 +62,356 @@ export const electronicsProductData = [
     brand: "DELL",
     link: "#",
   },
+  {
+    img: "https://rukminim1.flixcart.com/image/200/200/l5jxt3k0/dslr-camera/m/n/a/-original-imagg7hsggshhwbz.jpeg?q=70",
+    productName: "Top Mirrorless Cameras",
+    discount: "Shop Now!",
+    brand: "Canon, Sony, Fujifilm...",
+    link: "#",
+  },
+  {
+    img: "https://rukminim1.flixcart.com/image/400/400/ks7tuvk0/gimbal/v/z/7/0-43-om4-se-dji-original-imag5u6rgsdh6k4g.jpeg?q=70",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
 ];
 
+// For second categorie
+
+export const electronicsProductData_2 = [
+  {
+    img: "assets/img/categories_list_img/lady/018_DSC_0250-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/lady/7471702d8e82df0e0635133aee9c362e-01.jpg",
+    productName: "Top Mirrorless Cameras",
+    discount: "Shop Now!",
+    brand: "Canon, Sony, Fujifilm...",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/lady/a5b9f55a009b2a84a76f3a88e4dcca71-01.jpg",
+    productName: "Printers",
+    discount: "From ₹3999",
+    brand: "HP",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/lady/GULICX-Vintage-Unisex-Cool-Jewelry-Sets-Tiny-CZ-Crystal-Pendant-Gold-Color-Necklace-And-Stud-Earrings-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/lady/latest designer suits for women  (1)-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/lady/OIP (1)-01.jpg",
+    productName: "Best of Hair straighteners",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/lady/OIP (2)-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/lady/OIP (4)-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/lady/OIP (12)-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/lady/a5b9f55a009b2a84a76f3a88e4dcca71-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/lady/018_DSC_0250-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+];
+
+// For third categorie
+
+export const electronicsProductData_3 = [
+  {
+    img: "assets/img/categories_list_img/sofaa/breville - 1620585747_8000338-b0-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/sofaa/OIP (5)-01.jpg",
+    productName: "Top Mirrorless Cameras",
+    discount: "Shop Now!",
+    brand: "Canon, Sony, Fujifilm...",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/sofaa/OIP (6)-01.jpg",
+    productName: "Printers",
+    discount: "From ₹3999",
+    brand: "HP",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/sofaa/OIP (7)-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/sofaa/OIP (8)-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/sofaa/OIP (9)-01.jpg",
+    productName: "Best of Hair straighteners",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/sofaa/OIP (10)-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/sofaa/OIP (11)-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/sofaa/OIP (6)-01.jpg",
+    productName: "Printers",
+    discount: "From ₹3999",
+    brand: "HP",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/sofaa/OIP (7)-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/sofaa/OIP (8)-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+];
+
+// For four categorie
+
+export const electronicsProductData_4 = [
+  {
+    img: "assets/img/categories_list_img/man/Formal-Shoes-23-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/man/GOXPACER-Autumn-Men-Shoes-Men-Flats-Canvas-Lacing-Shoes-Breathable-Casual-Shoes-Single-Flats-Men-Fashion-01.jpg",
+    productName: "Top Mirrorless Cameras",
+    discount: "Shop Now!",
+    brand: "Canon, Sony, Fujifilm...",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/man/handmade-leather-mens-sandals-1946-2-01.jpg",
+    productName: "Printers",
+    discount: "From ₹3999",
+    brand: "HP",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/man/OIP (15)-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/man/OIP (16)-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/man/OIP (17)-01.jpg",
+    productName: "Best of Hair straighteners",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/man/OIP (20)-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/man/OIP-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/man/R (2)-01.jpg",
+    productName: "Printers",
+    discount: "From ₹3999",
+    brand: "HP",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/man/R (11)-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/man/handmade-leather-mens-sandals-1946-2-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+];
+
+// For five categorie
+
+export const electronicsProductData_5 = [
+  {
+    img: "assets/img/categories_list_img/OIP (5)-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/71kggQ7i7sL._AC_SL1500_-01.jpg",
+    productName: "Top Mirrorless Cameras",
+    discount: "Shop Now!",
+    brand: "Canon, Sony, Fujifilm...",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/71sRYhXiNLL._SL1500_-01.jpg",
+    productName: "Printers",
+    discount: "From ₹3999",
+    brand: "HP",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/grunwerg-kettle-ek-100m-b-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/OIP (1)-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/OIP (2)-01.jpg",
+    productName: "Best of Hair straighteners",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/OIP (3)-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/OIP (4)-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/OIP (5)-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/71kggQ7i7sL._AC_SL1500_-01.jpg",
+    productName: "Top Mirrorless Cameras",
+    discount: "Shop Now!",
+    brand: "Canon, Sony, Fujifilm...",
+    link: "#",
+  },
+  {
+    img: "assets/img/categories_list_img/grunwerg-kettle-ek-100m-b-01.jpg",
+    productName: "Monitor",
+    discount: "From ₹8279",
+    brand: "DELL",
+    link: "#",
+  },
+];
+
+
 let renderProduct = "";
+let renderProduct_2 = "";
+let renderProduct_3 = "";
+let renderProduct_4 = "";
+let renderProduct_5 = "";
 
 let bestofElctronic_product_itemEl = document.getElementById(
   "card-product-container-1"
@@ -111,6 +465,81 @@ for (let i = 0; i < electronicsProductData.length; i++) {
          </div>    
     `;
 }
+for (let i = 0; i < electronicsProductData_2.length; i++) {
+  console.log(electronicsProductData_2[i]);
+  renderProduct_2 += `
+    <div >
+           <a href="${electronicsProductData_2[i].link}" class="BestofElectronic_item">   
+             <div class="bestOfElectornic_image_Product">
+                 <img
+                     src="${electronicsProductData_2[i].img}" />
+             </div>
+             <div class="bestofElectronicmoreOption">
+                 <p class="bestofElectornicProduct_name">${electronicsProductData_2[i].productName}</p>
+                 <p class="bestofElecronic_discount">${electronicsProductData_2[i].discount}</p>
+                 <p class="bestofElectronic_brand">${electronicsProductData_2[i].brand}</p>
+             </div>
+             </a>
+         </div>    
+    `;
+}
+
+//for third 
+for (let i = 0; i < electronicsProductData_3.length; i++) {
+  console.log(electronicsProductData_3[i]);
+  renderProduct_3 += `
+    <div >
+           <a href="${electronicsProductData_3[i].link}" class="BestofElectronic_item">   
+             <div class="bestOfElectornic_image_Product">
+                 <img
+                     src="${electronicsProductData_3[i].img}" />
+             </div>
+             <div class="bestofElectronicmoreOption">
+                 <p class="bestofElectornicProduct_name">${electronicsProductData_3[i].productName}</p>
+                 <p class="bestofElecronic_discount">${electronicsProductData_3[i].discount}</p>
+                 <p class="bestofElectronic_brand">${electronicsProductData_3[i].brand}</p>
+             </div>
+             </a>
+         </div>    
+    `;
+}
+//for four 
+for (let i = 0; i < electronicsProductData_4.length; i++) {
+  console.log(electronicsProductData_4[i]);
+  renderProduct_4 += `
+    <div >
+           <a href="${electronicsProductData_4[i].link}" class="BestofElectronic_item">   
+             <div class="bestOfElectornic_image_Product">
+                 <img
+                     src="${electronicsProductData_4[i].img}" />
+             </div>
+             <div class="bestofElectronicmoreOption">
+                 <p class="bestofElectornicProduct_name">${electronicsProductData_4[i].productName}</p>
+                 <p class="bestofElecronic_discount">${electronicsProductData_4[i].discount}</p>
+                 <p class="bestofElectronic_brand">${electronicsProductData_4[i].brand}</p>
+             </div>
+             </a>
+         </div>    
+    `;
+}
+for (let i = 0; i < electronicsProductData_5.length; i++) {
+  console.log(electronicsProductData_5[i]);
+  renderProduct_5 += `
+    <div >
+           <a href="${electronicsProductData_5[i].link}" class="BestofElectronic_item">   
+             <div class="bestOfElectornic_image_Product">
+                 <img
+                     src="${electronicsProductData_5[i].img}" />
+             </div>
+             <div class="bestofElectronicmoreOption">
+                 <p class="bestofElectornicProduct_name">${electronicsProductData_5[i].productName}</p>
+                 <p class="bestofElecronic_discount">${electronicsProductData_5[i].discount}</p>
+                 <p class="bestofElectronic_brand">${electronicsProductData_5[i].brand}</p>
+             </div>
+             </a>
+         </div>    
+    `;
+}
 
 bestofElctronic_product_itemEl.innerHTML = renderProduct;
 
@@ -129,7 +558,7 @@ cardBtnLeftEl.addEventListener("click", function () {
 });
 
 // slider-2
-bestofElctronic_product_itemEl_02.innerHTML = renderProduct;
+bestofElctronic_product_itemEl_02.innerHTML = renderProduct_2;
 
 let cardBtnRightEl_02 = document.getElementById("card-btn-right-2");
 let cardBtnLeftEl_02 = document.getElementById("card-btn-left-2");
@@ -146,7 +575,7 @@ cardBtnLeftEl_02.addEventListener("click", function () {
 });
 
 // slider-3
-bestofElctronic_product_itemEl_03.innerHTML = renderProduct;
+bestofElctronic_product_itemEl_03.innerHTML = renderProduct_3;
 
 let cardBtnRightEl_03 = document.getElementById("card-btn-right-3");
 let cardBtnLeftEl_03 = document.getElementById("card-btn-left-3");
@@ -162,8 +591,8 @@ cardBtnLeftEl_03.addEventListener("click", function () {
   cardBtnLeftEl_03.style.display = "none";
 });
 
-// slider-3
-bestofElctronic_product_itemEl_04.innerHTML = renderProduct;
+// slider-4
+bestofElctronic_product_itemEl_04.innerHTML = renderProduct_4;
 
 let cardBtnRightEl_04 = document.getElementById("card-btn-right-4");
 let cardBtnLeftEl_04 = document.getElementById("card-btn-left-4");
@@ -180,7 +609,7 @@ cardBtnLeftEl_04.addEventListener("click", function () {
 });
 
 // slider-5
-bestofElctronic_product_itemEl_05.innerHTML = renderProduct;
+bestofElctronic_product_itemEl_05.innerHTML = renderProduct_5;
 
 let cardBtnRightEl_05 = document.getElementById("card-btn-right-5");
 let cardBtnLeftEl_05 = document.getElementById("card-btn-left-5");
@@ -197,7 +626,7 @@ cardBtnLeftEl_05.addEventListener("click", function () {
 });
 
 // slider-6
-bestofElctronic_product_itemEl_06.innerHTML = renderProduct;
+bestofElctronic_product_itemEl_06.innerHTML = renderProduct_2;
 
 let cardBtnRightEl_06 = document.getElementById("card-btn-right-6");
 let cardBtnLeftEl_06 = document.getElementById("card-btn-left-6");
@@ -214,7 +643,7 @@ cardBtnLeftEl_06.addEventListener("click", function () {
 });
 
 // slider-7
-bestofElctronic_product_itemEl_07.innerHTML = renderProduct;
+bestofElctronic_product_itemEl_07.innerHTML = renderProduct_3;
 
 let cardBtnRightEl_07 = document.getElementById("card-btn-right-7");
 let cardBtnLeftEl_07 = document.getElementById("card-btn-left-7");
@@ -248,7 +677,7 @@ cardBtnLeftEl_08.addEventListener("click", function () {
 });
 
 // slider-9
-bestofElctronic_product_itemEl_09.innerHTML = renderProduct;
+bestofElctronic_product_itemEl_09.innerHTML = renderProduct_4;
 
 let cardBtnRightEl_09 = document.getElementById("card-btn-right-9");
 let cardBtnLeftEl_09 = document.getElementById("card-btn-left-9");
@@ -265,7 +694,7 @@ cardBtnLeftEl_09.addEventListener("click", function () {
 });
 
 // slider-10
-bestofElctronic_product_itemEl_10.innerHTML = renderProduct;
+bestofElctronic_product_itemEl_10.innerHTML = renderProduct_2;
 
 let cardBtnRightEl_10 = document.getElementById("card-btn-right-10");
 let cardBtnLeftEl_10 = document.getElementById("card-btn-left-10");
@@ -282,7 +711,7 @@ cardBtnLeftEl_10.addEventListener("click", function () {
 });
 
 // slider-11
-bestofElctronic_product_itemEl_11.innerHTML = renderProduct;
+bestofElctronic_product_itemEl_11.innerHTML = renderProduct_5;
 
 let cardBtnRightEl_11 = document.getElementById("card-btn-right-11");
 let cardBtnLeftEl_11 = document.getElementById("card-btn-left-11");
